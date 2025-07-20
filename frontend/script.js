@@ -1,5 +1,5 @@
 // Configuración de la API
-const API_BASE_URL = 'https://eonova-backend-12x8.vercel.app/api';
+const API_BASE_URL = 'https://eonova-backend-12x8.vercel.app';
 
 // Estado global de la aplicación
 let products = [];
