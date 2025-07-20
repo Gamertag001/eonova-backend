@@ -2,7 +2,7 @@ import requests
 import json
 
 # URL base de la API (cambia esto por tu URL de Vercel cuando la despliegues)
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://eonova-backend.vercel.app"
 
 def test_api():
     """Función para probar los endpoints de la API"""
